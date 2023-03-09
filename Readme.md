@@ -1,5 +1,5 @@
 # Welcome MinseokGo GitHub!! 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MinseokGo&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MinseokGo&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Welcome%20my%20Git%20World&descAlignY=70)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseokGo&show_icons=true&theme=radical)
 <!--
 **MinseokGo/MinseokGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
