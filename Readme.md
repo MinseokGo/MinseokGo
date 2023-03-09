@@ -1,7 +1,9 @@
-# Welcome MinseokGo GitHub!! 👋
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MinseokGo&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Welcome%20my%20Git%20World&descAlignY=70)
 <div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhalstjr1999)](https://solved.ac/rhalstjr1999)[![Top Langs](https://github-readme-       stats.vercel.app/api/top-langs/?username=MinseokGo&langs_count=8)](https://github.com/MinseokGo/github-readme-stats)
+  # Welcome MinseokGo GitHub!! 👋
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhalstjr1999)](https://solved.ac/rhalstjr1999)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseokGo&langs_count=8)](https://github.com/MinseokGo/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseokGo&show_icons=true&theme=tokyonight)
  ***
 Studying ✏️
