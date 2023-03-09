@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MinseokGo&fontAlignY=45&fontSize=60&height=150&animation=blinking&desc=Welcome%20my%20Git%20World&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=red&text=MinseokGo&fontAlignY=45&fontSize=60&height=150&animation=blinking&desc=Welcome%20my%20Git%20World&descAlignY=70)
 
   # Welcome MinseokGo GitHub!! 👋
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhalstjr1999)](https://solved.ac/rhalstjr1999)
