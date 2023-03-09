@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MinseokGo&fontAlignY=45&fontSize=60&height=150&animation=blinking&desc=Welcome%20my%20Git%20World&descAlignY=70)
-<div align="center>
+
   # Welcome MinseokGo GitHub!! 👋
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhalstjr1999)](https://solved.ac/rhalstjr1999)</br>
@@ -12,4 +12,4 @@ Studying ✏️</br>
  [![hits] => 방문자 수
 
 ![followers] => 팔로워 수
-</div>
+
