@@ -14,7 +14,7 @@ Studying ✏️</br>
 ![followers] => 팔로워 수
 
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MinseokGo&fontAlignY=45&fontSize=60&height=150&animation=blinking&desc=Welcome%20my%20Git%20World&descAlignY=70)
+  (https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MinseokGo&fontAlignY=45&fontSize=60&height=150&animation=blinking&desc=Welcome%20my%20Git%20World&descAlignY=70)
 </div>
 
   # Welcome MinseokGo GitHub!! 👋
