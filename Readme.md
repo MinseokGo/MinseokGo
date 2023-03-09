@@ -3,7 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseokGo&show_icons=true&theme=radical)
       
- <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <!--
 **MinseokGo/MinseokGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
