@@ -2,7 +2,7 @@
 2018.03 ~ IT applied Engineering  
 2023.04 ~ Kaka tech campus 1st class
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseokGo&langs_count=8)](https://github.com/MinseokGo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseokGo&langs_count=8)](https://github.com/MinseokGo/github-readme-stats)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseokGo&show_icons=true&theme=tokyonight)
  ***
  <div align="center">
