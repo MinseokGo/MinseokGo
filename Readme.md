@@ -1,6 +1,6 @@
 # Welcome MinseokGo GitHub!! 👋
 
-## Career
+## 💼Career
 <div align="center">
   <p>2018.03 ~ IT applied Engineering<br>
   2023.04 ~ Kakao tech campus 1st class</p>
