@@ -1,9 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MinseokGo%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20my%20Git%20World&descAlignY=51&descAlign=62)
-
-
-  # Welcome MinseokGo GitHub!! 👋
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseokGo&langs_count=8)](https://github.com/MinseokGo/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseokGo&show_icons=true&theme=tokyonight)
+# Welcome MinseokGo GitHub!! 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseokGo&langs_count=8)](https://github.com/MinseokGo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseokGo&show_icons=true&theme=tokyonight)
  ***
  <div align="center">
   <p>Studying ✏️</p></br>
