@@ -35,15 +35,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MinseokGo&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
-    
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=tony9402&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/tony9402)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tony9402&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=tony9402)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MinseokGo&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=MinseokGo)](#)
 
-<a href="https://opgc.me/#/users/tony9402" target="_blank"><img src="https://api.opgc.me/githubs/users/tony9402/tag/?border=normal" /></a>
+<a href="https://opgc.me/#/users/MinseokGo" target="_blank"><img src="https://api.opgc.me/githubs/users/MinseokGo/tag/?border=normal" /></a>
 
 <br>
 <div align="center">
