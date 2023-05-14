@@ -1,4 +1,4 @@
-# Welcome MinseokGo GitHub!! 👋
+<h1 align="center">Welcome MinseokGo GitHub!! 👋</h2>
 
 <div align="center">
   <h2>💼 Career</h2>
