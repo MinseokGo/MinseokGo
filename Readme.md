@@ -36,11 +36,10 @@
 </a>
 </p>
 <div align="center">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=MinseokGo&theme=chalk&row=1&column=7" />
-<!--(https://github.com/ryo-ma/github-profile-trophy)-->
+  <img align="center" height="180em" src="https://github-profile-trophy.vercel.app/?username=MinseokGo&theme=chalk&row=1&column=7" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MinseokGo" />
   <a href="https://opgc.me/#/users/MinseokGo" target="_blank">
-    <img src="https://api.opgc.me/githubs/users/MinseokGo/tag/?border=normal" />
+    <img height="180em" src="https://api.opgc.me/githubs/users/MinseokGo/tag/?border=normal" />
   </a>
 </div>
 
