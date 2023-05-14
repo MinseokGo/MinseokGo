@@ -38,7 +38,8 @@
 <div align="center">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=MinseokGo&theme=chalk&row=1&column=7" />
 <!--(https://github.com/ryo-ma/github-profile-trophy)-->
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=MinseokGo)](#)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MinseokGo" />
+</div>
 
 <a href="https://opgc.me/#/users/MinseokGo" target="_blank"><img src="https://api.opgc.me/githubs/users/MinseokGo/tag/?border=normal" /></a>
 
