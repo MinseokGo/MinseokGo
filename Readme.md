@@ -1,13 +1,13 @@
 # Welcome MinseokGo GitHub!! 👋
 
-## 💼 Career
 <div align="center">
+  <h2>💼 Career</h2>
   <p>2018.03 ~ IT applied Engineering<br>
   2023.04 ~ Kakao tech campus 1st class</p>
 </div>
 
-## 🛠 Tech Stack
 <div align="center">
+  <h2>🛠 Tech Stack<h2>
   <p>Language</p>
   <img height="30em" src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
