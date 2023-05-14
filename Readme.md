@@ -26,11 +26,10 @@
   <p>Dev tools</p>
   <img height="30em" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  
 </div>
 
-## ⚙️ GitHub Analytics
 <p align="center">
+    <h2>⚙️ GitHub Analytics</h2>
 <a href="https://github.com/MinseokGo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MinseokGo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MinseokGo&layout=compact&langs_count=8&theme=chartreuse-dark"/>
