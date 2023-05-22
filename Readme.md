@@ -6,7 +6,7 @@
   2022.03 ~ PNU Data Lab. 학부 연구생<br>
   2023.04 ~ Kakao tech campus 1st class</p>
 </div>
-
+<p></p>
 <div align="center">
   <h2>🛠 Tech Stack<h2>
   <p>Language</p>
