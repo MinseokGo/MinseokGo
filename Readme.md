@@ -9,7 +9,6 @@
   2023.04 ~ Kakao tech campus 1st class</p>
 </div>
 
-
 <div align="center">
   <h2>🛠 Tech Stack<h2>
   <p>Language</p>
