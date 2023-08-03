@@ -1,6 +1,5 @@
 <h1 align="center">Welcome MinseokGo GitHub!! 👋</h2>
 
-
 <div align="center">
   <h2>💼 Career</h2>
   <p>2018.03 ~ IT applied Engineering<br>
