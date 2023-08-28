@@ -3,7 +3,7 @@
 <div align="center">
   <h2>💼 Career</h2>
   <p>2018.03 ~ IT applied Engineering<br>
-  2021.12 ~ 2022.06 알고리즘 동아리 Alss 회장<br>
+  2021.12 ~ 2022.06 알고리즘 동아리 Alss 운영<br>
   2022.03 ~ PNU Data Lab. 학부 연구생<br>
   2023.04 ~ Kakao tech campus 1st class</p>
 </div>
