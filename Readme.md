@@ -2,10 +2,10 @@
 
 <div align="center">
   <h2>💼 Career</h2>
-  <p>2018.03 ~ IT applied Engineering<br>
+  <p>2018.03 ~ 2024.02 IT applied Engineering<br>
   2021.12 ~ 2022.06 알고리즘 동아리 Alss 운영<br>
-  2022.03 ~ PNU Data Lab. 학부 연구생<br>
-  2023.04 ~ Kakao tech campus 1st class</p>
+  2022.03 ~ 2023.11 PNU Data Lab. 학부 연구생<br>
+  2023.04 ~ 2023.11 Kakao tech campus 1st class</p>
 </div>
 
 <div align="center">
