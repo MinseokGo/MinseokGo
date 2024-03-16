@@ -11,10 +11,26 @@
       <td>IT응용공학과 학부</td>
       <td>2018.03 - 2024.08</td>
     </tr>
-  <p>2018.03 ~ 2024.02 IT applied Engineering<br>
-  2021.12 ~ 2022.06 알고리즘 동아리 Alss 운영<br>
-  2022.03 ~ 2023.11 PNU Data Lab. 학부 연구생<br>
-  2023.04 ~ 2023.11 Kakao tech campus BE</p>
+    <tr>
+      <td>Alss</td>
+      <td>동아리장</td>
+      <td>2021.12 - 2022.06</td>
+    </tr>
+    <tr>
+      <td>카카오 테크 캠퍼스</td>
+      <td>Back-End 트랙</td>
+      <td>2023.04 - 2023.11</td>
+    </tr>
+    <tr>
+      <td>SSAFY</td>
+      <td>11기 교육생</td>
+      <td>2024.01 - 2024.02</td>
+    </tr>
+    <tr>
+      <td>멋쟁이사자처럼</td>
+      <td>Back-end 트랙 크루장</td></td>
+      <td>2024.02 - 현재</td>
+    </tr>
 </div>
 
 <div align="center">
