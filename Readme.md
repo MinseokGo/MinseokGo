@@ -43,39 +43,6 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseokGo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
 
-<div align="center">
-  <h2>💼 Career</h2>
-  <table>
-    <th>기관</th>
-    <th>역할</th>
-    <th>기간</th>
-    <tr>
-      <td>부산대학교</td>
-      <td>IT응용공학과 학부</td>
-      <td>2018.03 - 2024.08</td>
-    </tr>
-    <tr>
-      <td>Alss</td>
-      <td>동아리장</td>
-      <td>2021.12 - 2022.06</td>
-    </tr>
-    <tr>
-      <td>카카오 테크 캠퍼스</td>
-      <td>Back-End 트랙</td>
-      <td>2023.04 - 2023.11</td>
-    </tr>
-    <tr>
-      <td>SSAFY</td>
-      <td>11기 교육생</td>
-      <td>2024.01 - 2024.02</td>
-    </tr>
-    <tr>
-      <td>멋쟁이사자처럼</td>
-      <td>Back-end 트랙 크루장</td></td>
-      <td>2024.02 - 현재</td>
-    </tr>
-</div>
-
   
 </div>
 <!--[![Solved.ac
