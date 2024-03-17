@@ -1,7 +1,7 @@
 # Welcome MinseokGo GitHub!!
 ## 🏢 Career
 
-| PERIOD | TITLE | SUBJECT |
+| PERIOD | ORGANIZATION | ROLE |
 | ------- | ------- | ------- | 
 | **2018.03 -** | **부산대학교** |  **IT응용공학과 학부생** |
 | **2021.12 - 2022.06** | **알고리즘 동아리 Alss** | **동아리 회장** |
@@ -9,6 +9,12 @@
 | **2023.04 - 2023.11** | **카카오 테크 캠퍼스** | **1기 백엔드 테크리더** |
 | **2024.01 - 2024.02** | **SSAFY** | **11기 교육생** |
 | **2024.02 -** | **멋쟁이사자처럼** | **12기 백엔드 크루장** |
+
+## 📚 Project
+| PERIOD | NAME | SUBJECT |
+| ------- | ------- | ------- | 
+| **2023.03 - 2023.11** | **용기 나눔** |  **[1인 가구 배달음식 공유 플랫폼](https://github.com/yongki-nanum-food-share-platform/backend-deploy)** |
+| **2023.10 - 2023.11** | **네모** | **[네컷 사진 관리 플랫폼](https://github.com/MinseokGo/Team2_BE)** |
 
 <div>
   <h2>🛠 Tech Stack<h2>
