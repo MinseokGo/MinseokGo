@@ -1,4 +1,4 @@
-<h1 align="center">Welcome MinseokGo GitHub!! 👋</h2>
+<h1>Welcome MinseokGo GitHub!! 👋</h2>
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
@@ -6,7 +6,7 @@
 | **2022.01 - .06** | **전북선거관리위원회 여론조사 분석요원** | [**선거여론조사 Raw Data 분석 및 조사결과 통계 해석**](https://heoni00.github.io/poll-analysis/poll-analysis/#선거여론조사-분석-모니터링-요원으로서-수행한-업무) |
 | **2021.09 - .12** | **공공데이터 청년인턴** | **공공 개방데이터 품질 진단 및 개선** |
 
-<div align="center">
+<div>
   <h2>🛠 Tech Stack<h2>
   <p>Language</p>
   <img height="30em" src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/>
