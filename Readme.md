@@ -1,5 +1,5 @@
 <h1>Welcome MinseokGo GitHub!! 👋</h2>
-<h2>🏢 Career</h2> </br>
+## 🏢 Career
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
 | **2018.03 - ** | **부산대학교** |  **IT응용공학과 학부생** |
