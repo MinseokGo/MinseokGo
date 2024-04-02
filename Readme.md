@@ -66,4 +66,75 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhalstjr1999)](https://solved.ac/rhalstjr1999)-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 55.7 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+🌆 Daytime                3797 commits        ████████████████░░░░░░░░░   64.54 % 
+🌃 Evening                1843 commits        ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌙 Night                  130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1502 commits        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Tuesday                  331 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Wednesday                232 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Thursday                 1021 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Friday                   721 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Saturday                 276 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Sunday                   1800 commits        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     20 repos            █████████████████░░░░░░░░   68.97 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Rich Text Format         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MinseokGo/MinseokGo/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/04/2024 11:25:52 UTC
 <!--END_SECTION:waka-->
