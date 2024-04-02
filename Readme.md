@@ -64,3 +64,5 @@
 </div>
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhalstjr1999)](https://solved.ac/rhalstjr1999)-->
+
+[![MinseokGo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MinseokGo)]
