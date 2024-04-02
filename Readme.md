@@ -64,8 +64,3 @@
 </div>
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhalstjr1999)](https://solved.ac/rhalstjr1999)-->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
