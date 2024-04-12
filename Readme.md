@@ -1,7 +1,6 @@
 # Welcome MinseokGo GitHub!!
 ## 🏢 Career
 
-
 | PERIOD | ORGANIZATION | ROLE |
 | ------- | ------- | ------- | 
 | **2018.03 -** | **부산대학교** |  **IT응용공학과 학부생** |
