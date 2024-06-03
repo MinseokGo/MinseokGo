@@ -10,33 +10,33 @@
     </tr>
     <tr>
         <td><strong>2018.03 -</strong></td>
-        <td>Pusan National University</td>
-        <td>Undergraduate student, Department of IT Applied Engineering</td>
+        <td>부산대학교</td>
+        <td>IT응용공학과 학부생</td>
     </tr>
     <tr>
         <td><strong>2021.12 - 2022.06</strong></td>
-        <td>Alss, Algorithm Club</td>
-        <td>Club President</td>
+        <td>알고리즘 동아리, Alss</td>
+        <td>동아리장</td>
     </tr>
     <tr>
         <td><strong>2023.01 - 2023.03</strong></td>
-        <td>Naver Connect Foundation</td>
-        <td>University Student Mentor</td>
+        <td>네이버 커넥트 재단</td>
+        <td>대학생 멘토</td>
     </tr>
     <tr>
         <td><strong>2023.04 - 2023.11</strong></td>
         <td>Kakao Tech Campus</td>
-        <td>1st Generation Backend Tech Leader</td>
+        <td>1st 백엔드 테크 리더</td>
     </tr>
     <tr>
         <td><strong>2024.01 - 2024.02</strong></td>
         <td>SSAFY</td>
-        <td>11th Generation Student</td>
+        <td>11th 교육생</td>
     </tr>
     <tr>
         <td><strong>2024.02 -</strong></td>
-        <td>Likelion</td>
-        <td>12th Generation Backend Leader</td>
+        <td>멋쟁이사자처럼 대학 연합 동아리</td>
+        <td>12th 백엔드 트랙 리더</td>
     </tr>
 </table>
 
@@ -50,13 +50,13 @@
     </tr>
     <tr>
         <td><strong>2023.03 - 2023.11</strong></td>
-        <td>Yongki</td>
-        <td><a href="https://github.com/yongki-nanum-food-share-platform/backend-deploy">Single-person household food sharing platform</a></td>
+        <td>용기나눔</td>
+        <td><a href="https://github.com/yongki-nanum-food-share-platform/backend-deploy">1인 가구를 위한 배달 음식 공유 플랫폼</a></td>
     </tr>
     <tr>
         <td><strong>2023.10 - 2023.11</strong></td>
-        <td>Nemo</td>
-        <td><a href="https://github.com/MinseokGo/Team2_BE">Fourcut photo management platform</a></td>
+        <td>네모</td>
+        <td><a href="https://github.com/MinseokGo/Team2_BE">네컷 사진 관리 플랫폼</a></td>
     </tr>
 </table>
 
@@ -95,6 +95,7 @@
   </a>
 </div> -->
 
+</br>></br>
 <br>
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
