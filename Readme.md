@@ -1,21 +1,65 @@
-# Welcome MinseokGo GitHub!!
-## 🏢 Career
+<h1 align="center">Welcome MinseokGo GitHub!!</h1>
 
+<h2 align="center">🏢 Career</h2>
 
-| PERIOD | ORGANIZATION | ROLE |
-| ------- | ------- | ------- | 
-| **2018.03 -** | **부산대학교** |  **IT응용공학과 학부생** |
-| **2021.12 - 2022.06** | **알고리즘 동아리 Alss** | **동아리 회장** |
-| **2023.01 - 2023.03** | **네이버 커넥트재단** | **대학생 멘토** |
-| **2023.04 - 2023.11** | **카카오 테크 캠퍼스** | **1기 백엔드 테크리더** |
-| **2024.01 - 2024.02** | **SSAFY** | **11기 교육생** |
-| **2024.02 -** | **멋쟁이사자처럼** | **12기 백엔드 리더** |
+<table align="center">
+    <tr>
+        <th>PERIOD</th>
+        <th>ORGANIZATION</th>
+        <th>ROLE</th>
+    </tr>
+    <tr>
+        <td><strong>2018.03 -</strong></td>
+        <td>Pusan National University</td>
+        <td>Undergraduate student, Department of IT Applied Engineering</td>
+    </tr>
+    <tr>
+        <td><strong>2021.12 - 2022.06</strong></td>
+        <td>Alss, Algorithm Club</td>
+        <td>Club President</td>
+    </tr>
+    <tr>
+        <td><strong>2023.01 - 2023.03</strong></td>
+        <td>Naver Connect Foundation</td>
+        <td>University Student Mentor</td>
+    </tr>
+    <tr>
+        <td><strong>2023.04 - 2023.11</strong></td>
+        <td>Kakao Tech Campus</td>
+        <td>1st Generation Backend Tech Leader</td>
+    </tr>
+    <tr>
+        <td><strong>2024.01 - 2024.02</strong></td>
+        <td>SSAFY</td>
+        <td>11th Generation Student</td>
+    </tr>
+    <tr>
+        <td><strong>2024.02 -</strong></td>
+        <td>Likelion</td>
+        <td>12th Generation Backend Leader</td>
+    </tr>
+</table>
 
-## 📚 Project
-| PERIOD | NAME | SUBJECT |
-| ------- | ------- | ------- | 
-| **2023.03 - 2023.11** | **용기 나눔** |  **[1인 가구 배달음식 공유 플랫폼](https://github.com/yongki-nanum-food-share-platform/backend-deploy)** |
-| **2023.10 - 2023.11** | **네모** | **[네컷 사진 관리 플랫폼](https://github.com/MinseokGo/Team2_BE)** |
+<h2 align="center">📚 Project</h2>
+
+<table align="center">
+    <tr>
+        <th>PERIOD</th>
+        <th>NAME</th>
+        <th>SUBJECT</th>
+    </tr>
+    <tr>
+        <td><strong>2023.03 - 2023.11</strong></td>
+        <td>Yongki</td>
+        <td><a href="https://github.com/yongki-nanum-food-share-platform/backend-deploy">Single-person household food sharing platform</a></td>
+    </tr>
+    <tr>
+        <td><strong>2023.10 - 2023.11</strong></td>
+        <td>Nemo</td>
+        <td><a href="https://github.com/MinseokGo/Team2_BE">Fourcut photo management platform</a></td>
+    </tr>
+</table>
+
 
 <div>
   <h2>🛠 Tech Stack<h2>
