@@ -25,8 +25,10 @@
   <p>Back-end</p>
   <img height="30em" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
   
   <!--<p>DevOps</p>-->
 <!--   <img height="30em" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>   -->
