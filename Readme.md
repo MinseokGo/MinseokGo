@@ -61,7 +61,7 @@
 </table>
 
 
-<div>
+<div align="center">
   <h2>🛠 Tech Stack<h2>
   <p>Language</p>
   <img height="30em" src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/>
