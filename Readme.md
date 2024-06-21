@@ -49,6 +49,11 @@
         <th>SUBJECT</th>
     </tr>
     <tr>
+        <td><strong>2023.06 - 2023.8</strong></td>
+        <td>카카오 쇼핑하기</td>
+        <td><a href="https://github.com/MinseokGo/step2-BE-kakao-shop-1">카카오 쇼핑하기 클론 프로젝트</a></td>
+    </tr>
+    <tr>
         <td><strong>2023.03 - 2023.11</strong></td>
         <td>용기나눔</td>
         <td><a href="https://github.com/yongki-nanum-food-share-platform/backend-deploy">1인 가구를 위한 배달 음식 공유 플랫폼</a></td>
@@ -57,6 +62,11 @@
         <td><strong>2023.10 - 2023.11</strong></td>
         <td>네모</td>
         <td><a href="https://github.com/MinseokGo/Team2_BE">네컷 사진 관리 플랫폼</a></td>
+    </tr>
+    <tr>
+        <td><strong>2024.04 - 2024.06</strong></td>
+        <td>멋쟁이사자처럼 게시판 프로젝트</td>
+        <td><a href="https://github.com/MinseokGo/week-assignment/tree/feat/security">멋쟁이사자처럼 게시판 프로젝트</a></td>
     </tr>
 </table>
 
