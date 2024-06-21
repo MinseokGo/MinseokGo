@@ -49,14 +49,14 @@
         <th>SUBJECT</th>
     </tr>
     <tr>
-        <td><strong>2023.06 - 2023.8</strong></td>
-        <td>카카오 쇼핑하기</td>
-        <td><a href="https://github.com/MinseokGo/step2-BE-kakao-shop-1">카카오 쇼핑하기 클론 프로젝트</a></td>
-    </tr>
-    <tr>
         <td><strong>2023.03 - 2023.11</strong></td>
         <td>용기나눔</td>
         <td><a href="https://github.com/yongki-nanum-food-share-platform/backend-deploy">1인 가구를 위한 배달 음식 공유 플랫폼</a></td>
+    </tr>
+    <tr>
+        <td><strong>2023.06 - 2023.8</strong></td>
+        <td>카카오 쇼핑하기</td>
+        <td><a href="https://github.com/MinseokGo/step2-BE-kakao-shop-1">카카오 쇼핑하기 클론 프로젝트</a></td>
     </tr>
     <tr>
         <td><strong>2023.10 - 2023.11</strong></td>
