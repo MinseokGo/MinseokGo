@@ -66,7 +66,7 @@
     <tr>
         <td><strong>2024.04 - 2024.06</strong></td>
         <td>멋쟁이사자처럼 게시판 프로젝트</td>
-        <td><a href="https://github.com/MinseokGo/week-assignment/tree/feat/security">멋쟁이사자처럼 게시판 프로젝트</a></td>
+        <td><a href="https://github.com/MinseokGo/week-assignment">멋쟁이사자처럼 게시판 프로젝트</a></td>
     </tr>
 </table>
 
