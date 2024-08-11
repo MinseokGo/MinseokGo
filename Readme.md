@@ -69,7 +69,7 @@
         <td><a href="https://github.com/MinseokGo/week-assignment">멋쟁이사자처럼 게시판 프로젝트</a></td>
     </tr>
     <tr>
-        <td><strong>2024.07 - </strong></td>
+        <td><strong>2024.07 - 2024.08</strong></td>
         <td>그룸</td>
         <td><a href="https://github.com/mut-sa-mut-si/backend">자기 관리 레시피 플랫폼</a></td>
     </tr>
