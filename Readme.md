@@ -2,7 +2,7 @@
 
 <h2 align="center">🏢 Career</h2>
 
-<!--table align="center">
+<table align="center">
     <tr>
         <th>PERIOD</th>
         <th>ORGANIZATION</th>
@@ -38,7 +38,7 @@
         <td>멋쟁이사자처럼 대학 연합 동아리</td>
         <td>12th 백엔드 트랙 리더</td>
     </tr>
-</table -->
+</table>
 
 <h2 align="center">📚 Project</h2>
 
