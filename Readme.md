@@ -1,5 +1,6 @@
 <h1 align="center">Welcome MinseokGo GitHub!!</h1>
 
+<!--
 <h2 align="center">🏢 Career</h2>
 
 <table align="center">
@@ -74,6 +75,7 @@
         <td><a href="https://github.com/mut-sa-mut-si/backend">자기 관리 레시피 플랫폼</a></td>
     </tr>
 </table>
+-->
 
 
 <div align="center">
